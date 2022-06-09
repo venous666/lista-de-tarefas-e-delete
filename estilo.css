@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(227, 225, 179);
+    font-family: cursive;
+
+}
+header{
+    background-color: rgb(244, 245, 179);
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+footer{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(206, 182, 229);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 40px;
+}
+
+.nav{
+   text-decoration: solid;
+   justify-content: center;
+  
+}
+header h1{
+    font-family: 'Times New Roman', Times, serif
+}
+li a{
+  color: rgb(255, 255, 255);
+  text-decoration: dotted;
+  padding: 0.5px;
+  border-radius: 5px;
+  background-color: rgb(223, 204, 241);
+  justify-content: center;
+
+}
+
+button{
+    border-radius: 15px;
+    justify-content: center;
+}
+
+input{
+    border-radius: 15px;
+    justify-content: center;
+}
+
+ul li{
+    padding: 2rem;
+    list-style: none;
+    justify-content: center;
+}
+li a:hover{
+    color: rgb(147, 176, 181);
+    background-color: rgb(223, 204, 241);
+  
+  }
+
+  th{
+      border-radius:20px ;
+      background-color: burlywood;
+      color: aliceblue;
+      padding: 0.5rem;
+  }
+
+  td{
+      border-radius: 15px;
+      padding: 5;
+      text-align: center;
+      
+      
+  }
+  
+
+  
